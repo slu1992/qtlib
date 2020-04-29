@@ -1,0 +1,6 @@
+site_name: Home - QTLib Documentation
+nav:
+- Home: index.md
+- GETTING STARTED:
+  - FAQ: faq.md
+theme: readthedocs
