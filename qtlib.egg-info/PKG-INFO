@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: qtlib
+Version: 0.0.2
+Summary: A library for quantitative trading
+Home-page: https://github.com/slu1992/qtlib
+Author: slu
+Author-email: 1@slu1992.com
+License: UNKNOWN
+Description: # qtlib
+        
+        a open source project for quantitative trading library
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

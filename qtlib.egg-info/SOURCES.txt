@@ -1,0 +1,7 @@
+README.md
+setup.py
+qtlib/__init__.py
+qtlib.egg-info/PKG-INFO
+qtlib.egg-info/SOURCES.txt
+qtlib.egg-info/dependency_links.txt
+qtlib.egg-info/top_level.txt
